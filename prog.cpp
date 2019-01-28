@@ -13,12 +13,16 @@ int main()
   {
     case 1:
       cout<<"Addition";
+      break;
     case 2:
       cout<<"Subtraction";
+      break;
     case 3:
       cout<<"Multiplication";
+      break;
     case 4:
       cout<<"Division";
+      break;
   }
   return 0;
 }
